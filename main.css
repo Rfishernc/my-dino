@@ -1,0 +1,48 @@
+body {
+    background-color: green; 
+    position: relative;
+}
+
+.main {
+   
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;  
+    /* min-height: 94vh;   */
+    justify-content: space-around;
+}
+
+footer {
+    background-color: sienna;
+    border: solid 3px black; 
+    border-radius: 5px;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    display: inline-block;
+    width: 99.65%;
+    text-align: center;
+    
+}
+
+.rich, .dino {
+    width: 40%;
+    padding: 4.3%;
+    text-align: center;
+    border: double 10px black;
+    border-radius: 5px;
+}
+
+.oldpeople {
+    max-width: 80%;
+    margin-bottom: -1.5em;
+}
+
+.rendition {
+    padding-top: 25px;
+    line-height: 0.1;
+}
+
+.header {
+    margin-top: -1.5em;
+}
