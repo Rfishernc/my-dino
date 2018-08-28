@@ -1,0 +1,18 @@
+body {
+    background-color: green; 
+    position: relative;
+}
+
+footer {
+    background-color: sienna;
+    border: solid 3px black; 
+    border-radius: 5px;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    display: inline-block;
+    width: 99.65%;
+    text-align: center;
+    
+}
+
