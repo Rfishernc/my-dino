@@ -33,10 +33,12 @@ footer {
     border-radius: 5px;
 }
 
-.oldpeople {
+.oldpeople, .photo {
     max-width: 80%;
     margin-bottom: -1.5em;
 }
+
+
 
 .rendition {
     padding-top: 25px;
